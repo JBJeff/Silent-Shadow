@@ -6,7 +6,7 @@
 [![Duplicated Lines (%)](https://sonar.aes.th-owl.de/api/project_badges/measure?project=Sopra24%3AGruppe-1&metric=duplicated_lines_density&token=sqb_3235afeafe1fc92380fe845670da52d0004f8ecc)](https://sonar.aes.th-owl.de/dashboard?id=Sopra24%3AGruppe-1)
 
 # Projekt: Silent Shadow
-
+## Study Project
 ## Info
 
 - Shoot 'em Up-Spielen mit Stealth-Elementen
@@ -24,7 +24,7 @@
 
 - Product Owner: Alexander Golüke @alexander.golueke
 - AI Developer: Jonas Schwind @jonas.schwind
-- Level Designer: Jeffrey Böttcher @jeffrey.boettcher
+- Level Designer and Developer : Jeffrey Böttcher @jeffrey.boettcher
 - TBD
 
 ## Hinweise und Regeln:
